@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>Bai Tap</title>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+	<strong>Ti?u Ð?i Xe Không Kính</strong>
+		<i>Không có kính không ph?i vì xe không có kính</i>
+		<u>Bom gi?t, bom rung kính v? di r?i</u>
+		<em>Ung dung bu?ng lái ta ng?i,</em>
+		<strong>Nhìn d?t, nhìn tr?i, nhìn th?ng</Strong>
+  </body>
+</html>
